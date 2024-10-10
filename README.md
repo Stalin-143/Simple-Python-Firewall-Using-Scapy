@@ -56,6 +56,6 @@ These logs will be saved in the firewall_log.txt file.
 
 ## License:
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT LICENSE.
 
 
